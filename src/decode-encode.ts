@@ -18,7 +18,6 @@
 
 import 'reflect-metadata';
 import { BitStream } from 'bit-buffer-ts';
-import { TextDecoder } from "util";
 
 class Coder {
     private static readonly definitions: any[] = [];
